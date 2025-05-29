@@ -2,8 +2,6 @@
 
 A collection of tools, checks, and hardening guides for securing modern CI/CD pipelines. This repo is designed for engineers, DevSecOps practitioners, and security-minded developers who want to prevent supply chain attacks, secrets leakage, and untrusted code execution in their delivery pipelines.
 
-> 🎯 CI/CD is the lifeblood of modern infrastructure — and often the weakest link. This repo helps you lock it down.
-
 ## 📁 Repository Structure
 
 | Folder             | Description                                                      |
